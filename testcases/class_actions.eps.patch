@@ -1,0 +1,76 @@
+--- class_actions.eps	2006-05-26 21:59:07.000000000 -0300
++++ class_actions.eps.ready	2006-05-26 21:59:07.000000000 -0300
+@@ -4,7 +4,7 @@
+ %%Producer: org.freehep.graphicsio.ps.PSGraphics2D Revision: 1.20 
+ %%For: 
+ %%Title: 
+-%%CreationDate: Tuesday, April 11, 2006 12:47:01 PM BRT
++%%CreationDate: Tuesday, April 11, 2006 12:43:29 PM BRT
+ %%LanguageLevel: 3
+ %%EndComments
+ %%BeginProlog
+@@ -1055,19 +1055,6 @@
+ defaultGraphicsState
+ %%EndSetup
+ 
+-0.0 0.0 0.0 RG
+-[ 1.0 0.0 0.0 1.0 0.0 0.0 ] defaultmatrix matrix concatmatrix setmatrix
+-1.0 w
+-2 J
+-0 j
+-10.0 M
+-[ ] 0.0 d
+-1.0 1.0 1.0 RG
+-0.0 0.0 530.0 429.0 rf
+-0.0 0.0 0.0 RG
+-q
+-0 0 530 429 rc
+-q
+ 1.0 1.0 1.0 RG
+ 0.0 0.0 530.0 429.0 rf
+ 0.0 0.0 530.0 429.0 rc
+@@ -1080,9 +1067,6 @@
+ 300.0 301.0 l
+ 300.0 -128.0 l
+ h
+-f
+-0.501961 0.501961 0.501961 RG
+-newpath
+ 310.0 -118.0 m
+ 820.0 -118.0 l
+ 820.0 270.0 l
+@@ -2346,14 +2330,6 @@
+ 0.5 17.5 l
+ 0.5 0.5 l
+ h
+-S
+-2 J
+-10.0 M
+-[ 1.0 0.0 0.0 1.0 4.0 2.0 ] concat
+-0.0 11.0 moveto
+-q 1 -1 scale
+-/SansSerif findfont 11.0 scalefont setfont
+-(\000A\000c\000t\000i\000o\000n\000s) show
+ Q
+ [ 1.0 0.0 0.0 1.0 10.0 10.0 ] defaultmatrix matrix concatmatrix setmatrix
+ [ 1.0 0.0 0.0 1.0 -300.0 128.0 ] defaultmatrix matrix concatmatrix setmatrix
+@@ -2401,19 +2377,6 @@
+ [ 1.0 0.0 0.0 1.0 -300.0 128.0 ] defaultmatrix matrix concatmatrix setmatrix
+ [ 1.0 0.0 0.0 1.0 -300.0 128.0 ] defaultmatrix matrix concatmatrix setmatrix
+ [ 1.0 0.0 0.0 1.0 342.361328 270.0 ] concat
+-0.0 12.0 moveto
+-q 1 -1 scale
+-/Helvetica findfont 12.0 scalefont setfont
+-(Created with Poseidon for UML Community Edition. Not for Commercial Use.) show
+-Q
+-[ 1.0 0.0 0.0 1.0 -300.0 128.0 ] defaultmatrix matrix concatmatrix setmatrix
+-[ 1.0 0.0 0.0 1.0 0.0 0.0 ] defaultmatrix matrix concatmatrix setmatrix
+-newpath
+-0.0 0.0 m
+-0.0 429.0 l
+-530.0 429.0 l
+-530.0 0.0 l
+-h
+ W
+ Q
+ end end restore showpage

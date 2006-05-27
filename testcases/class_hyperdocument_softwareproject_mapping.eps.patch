@@ -1,0 +1,76 @@
+--- class_hyperdocument_softwareproject_mapping.eps	2006-04-20 18:27:08.000000000 -0300
++++ class_hyperdocument_softwareproject_mapping.eps.1	2006-04-20 18:27:08.000000000 -0300
+@@ -4,7 +4,7 @@
+ %%Producer: org.freehep.graphicsio.ps.PSGraphics2D Revision: 1.20 
+ %%For: 
+ %%Title: 
+-%%CreationDate: Tuesday, April 11, 2006 6:58:05 PM BRT
++%%CreationDate: Tuesday, April 11, 2006 6:54:45 PM BRT
+ %%LanguageLevel: 3
+ %%EndComments
+ %%BeginProlog
+@@ -1055,19 +1055,6 @@
+ defaultGraphicsState
+ %%EndSetup
+ 
+-0.0 0.0 0.0 RG
+-[ 1.0 0.0 0.0 1.0 0.0 0.0 ] defaultmatrix matrix concatmatrix setmatrix
+-1.0 w
+-2 J
+-0 j
+-10.0 M
+-[ ] 0.0 d
+-1.0 1.0 1.0 RG
+-0.0 0.0 590.0 649.0 rf
+-0.0 0.0 0.0 RG
+-q
+-0 0 590 649 rc
+-q
+ 1.0 1.0 1.0 RG
+ 0.0 0.0 590.0 649.0 rf
+ 0.0 0.0 590.0 649.0 rc
+@@ -1080,9 +1067,6 @@
+ -390.0 361.0 l
+ -390.0 -288.0 l
+ h
+-f
+-0.501961 0.501961 0.501961 RG
+-newpath
+ -380.0 -278.0 m
+ 190.0 -278.0 l
+ 190.0 330.0 l
+@@ -2590,14 +2574,6 @@
+ 0.5 17.5 l
+ 0.5 0.5 l
+ h
+-S
+-2 J
+-10.0 M
+-[ 1.0 0.0 0.0 1.0 4.0 2.0 ] concat
+-0.0 11.0 moveto
+-q 1 -1 scale
+-/SansSerif findfont 11.0 scalefont setfont
+-(\000B\000u\000s\000i\000n\000e\000s\000s\000 \000-\000 \000H\000y\000p\000e\000r\000d\000o\000c\000u\000m\000e\000n\000t\000 \000a\000n\000d\000 \000S\000o\000f\000t\000w\000a\000r\000e\000 \000P\000r\000o\000j\000e\000c\000t\000 \000M\000a\000p\000p\000i\000n\000g) show
+ Q
+ [ 1.0 0.0 0.0 1.0 10.0 10.0 ] defaultmatrix matrix concatmatrix setmatrix
+ [ 1.0 0.0 0.0 1.0 390.0 288.0 ] defaultmatrix matrix concatmatrix setmatrix
+@@ -2851,19 +2827,6 @@
+ [ 1.0 0.0 0.0 1.0 390.0 288.0 ] defaultmatrix matrix concatmatrix setmatrix
+ [ 1.0 0.0 0.0 1.0 390.0 288.0 ] defaultmatrix matrix concatmatrix setmatrix
+ [ 1.0 0.0 0.0 1.0 -317.638672 330.0 ] concat
+-0.0 12.0 moveto
+-q 1 -1 scale
+-/Helvetica findfont 12.0 scalefont setfont
+-(Created with Poseidon for UML Community Edition. Not for Commercial Use.) show
+-Q
+-[ 1.0 0.0 0.0 1.0 390.0 288.0 ] defaultmatrix matrix concatmatrix setmatrix
+-[ 1.0 0.0 0.0 1.0 0.0 0.0 ] defaultmatrix matrix concatmatrix setmatrix
+-newpath
+-0.0 0.0 m
+-0.0 649.0 l
+-590.0 649.0 l
+-590.0 0.0 l
+-h
+ W
+ Q
+ end end restore showpage
